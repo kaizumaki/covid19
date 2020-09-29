@@ -101,6 +101,6 @@ export default Vue.extend(options)
 
 <style lang="scss">
 .DataCard {
-  transition: max-height .3s;
+  transition: max-height 0.3s;
 }
 </style>
